@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_contact.xml" value="0.24635416666666668" />
+        <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_education.xml" value="0.24635416666666668" />
+        <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_family.xml" value="0.24635416666666668" />
+        <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_hobby.xml" value="0.24635416666666668" />
         <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_main.xml" value="0.24256410256410257" />
-        <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_main2.xml" value="0.2" />
         <entry key="..\:/my projects/Resume/app/src/main/res/layout/activity_main3.xml" value="0.24635416666666668" />
         <entry key="..\:/my projects/Resume/app/src/main/res/mipmap-anydpi-v26/123.xml" value="0.119" />
       </map>
